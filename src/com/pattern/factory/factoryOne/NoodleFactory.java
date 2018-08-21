@@ -2,7 +2,7 @@ package com.pattern.factory.factoryOne;
 
 /**
  * @author tangjunchao
- * 接口代理
+ * 接口工厂模式
  */
 public class NoodleFactory {
 
